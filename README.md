@@ -6,3 +6,4 @@ code code code
 i)Uber Working api:
 ->1'st Gen API:
   <img width="918" height="475" alt="Screenshot 2026-06-10 at 11 54 22 PM" src="https://github.com/user-attachments/assets/a9690951-fe27-46c8-8ec5-3426d2f5ed82" />
+ii)database desgin:<img width="679" height="457" alt="Screenshot 2026-06-11 at 12 16 16 AM" src="https://github.com/user-attachments/assets/71a7f096-69b0-4ba5-83c1-3ef8c5f71e53" />
